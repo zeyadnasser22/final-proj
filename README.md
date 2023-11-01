@@ -1,7 +1,7 @@
 
 ## Zshop 
 
-Zshop is e-commerse based web application build with **laravel** by [Tauseed Zaman](https://github.com/tauseedzaman).
+Zshop is e-commerse based web application build with **laravel** by [zeyad nasser](https://github.com/tauseedzaman).
 ### How to Install Zshop 
 
 - **Clone/Download the repo**
